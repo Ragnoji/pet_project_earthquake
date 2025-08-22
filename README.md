@@ -2,9 +2,11 @@
 
 ### Stack
 - Apache-Airflow
+- DuckDB
+- 
 - Metabase
 - Minio
-- PostgreSQL
+- Postgres DWH
 - Python
 - Poetry (python dependency management)
 
